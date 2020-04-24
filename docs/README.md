@@ -6,6 +6,8 @@
 
 [chkoverlap - Checks for overlaps in bin files, also makes maps](https://github.com/SmallRoomLabs/chkoverlap) ![C/C++ CI](https://github.com/SmallRoomLabs/chkoverlap/workflows/C/C++%20CI/badge.svg)
 
+[palreport - List sizes of functions in assembly sources](https://github.com/SmallRoomLabs/palreport) ![C/C++ CI](https://github.com/SmallRoomLabs/palreport/workflows/C/C++%20CI/badge.svg)
+
 [TB8 - Tiny BASIC for PDP-8 (WIP)](https://github.com/SmallRoomLabs/TB) ![C/C++ CI](https://github.com/SmallRoomLabs/TB8/workflows/C/C++%20CI/badge.svg)
 
 [PDP8-Verilog - Implementation of PDP-8 in Verilog](https://github.com/SmallRoomLabs/PDP8-Verilog) ![C/C++ CI](https://github.com/SmallRoomLabs/PDP8-Verilog/workflows/C/C++%20CI/badge.svg)
